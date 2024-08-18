@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web, com foco em Front-End.
-- 🌱 Atualmente estou apredendo JavaScript e todo seu ecossistema.
+- 🌱 Atualmente estou estudando JavaScript e todo seu ecossistema.
 - 😄 Pronomes: Ele/Dele
 
 <!---
