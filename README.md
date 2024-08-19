@@ -26,7 +26,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="20" />
