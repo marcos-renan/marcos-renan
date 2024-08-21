@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web, com foco em Front-End.
-- 🌱 Atualmente estou estudando JavaScript e todo seu ecossistema.
+- 👀 Estou interessado em Desenvolvimento Web e Análise de Dados.
+- 🌱 Atualmente estou estudando JavaScript e Python.
 - 😄 Pronomes: Ele/Dele
 
 # 🙋 Redes Sociais
@@ -26,11 +26,17 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="18" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
