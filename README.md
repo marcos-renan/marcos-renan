@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web e Análise de Dados.
-- 🌱 Atualmente estou estudando JavaScript e Python.
-- 😄 Pronomes: Ele/Dele
+- 👀 Estou interessado em Desenvolvimento Web com foco em Front-End.
+- 🌱 Atualmente estou estudando JavaScript e todo seu ecossistema.
+- 🧑‍🎓 Atualmente estou no 6 período de Engenharia de Software.
 
 # 🙋 Redes Sociais
 
@@ -28,19 +28,15 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
