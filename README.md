@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web com foco em Front-End.
 - 🌱 Atualmente estou estudando JavaScript e todo seu ecossistema.
-- 🧑‍🎓 Atualmente estou no 6 período de Engenharia de Software.
+- 🧑‍🎓 Atualmente estou no 3º ano de Engenharia de Software.
 
 # 🙋 Redes Sociais
 
@@ -37,6 +37,8 @@
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="40" alt="sourcetree logo"  />
 </div>
 
 ###
