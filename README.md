@@ -38,7 +38,7 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="18" />
-  <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="40" alt="sourcetree logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
