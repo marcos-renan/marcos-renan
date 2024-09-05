@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web Full-Stack com foco em Front-End.
+- 👀 Estou interessado em Desenvolvimento Web Front-End.
 - 🌱 Atualmente estou estudando JavaScript e todo seu ecossistema.
 - 🧑‍🎓 Atualmente estou no 3º ano de Engenharia de Software.
 
@@ -29,18 +29,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="14" />
