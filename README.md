@@ -24,8 +24,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
