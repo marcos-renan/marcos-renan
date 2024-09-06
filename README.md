@@ -36,6 +36,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
