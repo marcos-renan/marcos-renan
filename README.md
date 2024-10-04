@@ -34,6 +34,8 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
