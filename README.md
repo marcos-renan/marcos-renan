@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web Full-Stack.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript e todo seu ecossistema.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript e PHP.
 - 🧑‍🎓 Estou no 3º ano de Engenharia de Software.
 
 # 🙋 Redes Sociais
