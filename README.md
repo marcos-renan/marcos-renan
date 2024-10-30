@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web Front-End.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript e PHP.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript e todo seu ecossistema.
 - 🧑‍🎓 Estou no 3º ano de Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -34,9 +34,9 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="20" />
