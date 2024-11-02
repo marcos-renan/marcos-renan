@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web Full-Stack.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript e Java.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript e todo seu ecossistema.
 - 🧑‍🎓 Estou no 3º ano de Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -38,9 +38,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
