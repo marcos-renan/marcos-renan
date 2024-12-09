@@ -40,6 +40,10 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
