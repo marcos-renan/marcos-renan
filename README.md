@@ -40,10 +40,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="16" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
 
