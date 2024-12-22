@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web Full-Stack.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript e Python.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript e todo seu ecossistema.
 - 🧑‍🎓 Estou no último ano de Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -40,11 +40,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
