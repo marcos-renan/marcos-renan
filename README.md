@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web e Desktop.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript e C-Sharp.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript e Python.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -34,9 +34,11 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
