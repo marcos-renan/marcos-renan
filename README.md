@@ -30,8 +30,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
