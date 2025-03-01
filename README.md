@@ -32,9 +32,15 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="20" />
+  <img src="https://github.com/user-attachments/assets/006f9e24-5978-49c1-821d-244f4d78d692" height="40" alt="tkinter"  />
+  <img width="20" />
+  <img src="https://flet.dev/img/logo.svg" height="40" alt="flet logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="20" />
