@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web, Desktop e Mobile.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript e Python.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript, PHP e Python.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
