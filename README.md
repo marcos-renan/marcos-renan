@@ -32,25 +32,18 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="20" />
-  <img src="https://github.com/user-attachments/assets/006f9e24-5978-49c1-821d-244f4d78d692" height="40" alt="tkinter"  />
-  <img width="20" />
-  <img src="https://flet.dev/img/logo.svg" height="40" alt="flet logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-renan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
