@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web, Desktop e Mobile.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript, PHP e Python.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript, Python e PHP.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -36,13 +36,9 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
 ###
