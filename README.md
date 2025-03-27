@@ -39,11 +39,11 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
