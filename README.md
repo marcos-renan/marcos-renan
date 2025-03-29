@@ -37,13 +37,11 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
 </div>
 
 ###
