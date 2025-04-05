@@ -35,8 +35,6 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
-  <img width="18" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
