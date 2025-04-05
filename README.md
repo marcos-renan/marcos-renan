@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando JavaScript/TypeScript e todo seu ecossistema.
+- 🌱 Atualmente estou estudando JavaScript/TypeScript e Python.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -34,6 +34,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="18" />
