@@ -41,11 +41,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
 </div>
 
 ###
