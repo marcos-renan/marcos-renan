@@ -24,22 +24,22 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="16" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="16" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="16" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="16" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="16" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
 </div>
 
 ###
