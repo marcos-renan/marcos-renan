@@ -37,8 +37,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
