@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando PHP, Python, JavaScript e TypeScript.
+- 🌱 Atualmente estou estudando PHP, JavaScript e TypeScript.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -33,13 +33,11 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
 </div>
