@@ -33,17 +33,18 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="18" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
 </div>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
