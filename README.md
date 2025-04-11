@@ -24,25 +24,29 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="18" />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 </div>
 
 ###
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
