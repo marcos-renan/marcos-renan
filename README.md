@@ -35,8 +35,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
