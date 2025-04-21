@@ -27,6 +27,8 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -34,12 +36,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
 </div>
 
 ###
