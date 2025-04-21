@@ -36,6 +36,10 @@
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
 </div>
 
 ###
