@@ -40,8 +40,6 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
-  <img width="18" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 </div>
 
