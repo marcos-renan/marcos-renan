@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web Front-End.
-- 🌱 Atualmente estou estudando Javascript/Typescript e todo seu ecossistema.
+- 🌱 Atualmente estou estudando Javascript, Typescript e PHP.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
