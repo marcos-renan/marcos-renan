@@ -28,10 +28,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -39,6 +35,10 @@
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
 </div>
