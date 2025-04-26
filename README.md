@@ -38,8 +38,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
