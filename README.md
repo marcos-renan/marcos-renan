@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web Front-End.
-- 🌱 Atualmente estou estudando Javascript, Typescript e PHP.
+- 🌱 Atualmente estou estudando Javascript/Typescript e todo seu ecossistema.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -32,15 +32,17 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
 </div>
 
 ###
@@ -48,8 +50,10 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-renan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-renan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=marcos-renan&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcos-renan&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
