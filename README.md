@@ -24,24 +24,24 @@
 # 💻 Tecnologias
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="16" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="16" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="16" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo"  />
-  <img width="16" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
-  <img width="16" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="16" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="16" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 </div>
 
@@ -52,11 +52,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-renan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=marcos-renan&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcos-renan&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+
+
+
 <!---
 devmarcosjs/devmarcosjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
