@@ -40,7 +40,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 </div>
