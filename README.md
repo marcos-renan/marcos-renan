@@ -1,5 +1,5 @@
 # 👋 Olá, meu nome é Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web Front-End.
+- 👀 Estou interessado em Desenvolvimento Web, principalmente Front-End.
 - 🌱 Atualmente estou estudando Javascript/Typescript e todo seu ecossistema.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
@@ -41,6 +41,10 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 </div>
 
 ###
