@@ -24,14 +24,6 @@
 # 💻 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -40,9 +32,15 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
 </div>
 
 ###
