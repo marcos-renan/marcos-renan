@@ -38,9 +38,9 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
 </div>
 
 ###
