@@ -28,8 +28,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -38,9 +36,13 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
 </div>
 
 ###
