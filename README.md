@@ -1,5 +1,5 @@
 # 👋 Olá, meu nome é Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web, principalmente Front-End.
+- 👀 Estou interessado em Desenvolvimento Web.
 - 🌱 Atualmente estou estudando Javascript/Typescript e todo seu ecossistema.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
@@ -24,18 +24,22 @@
 # 💻 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="16" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo"  />
 </div>
 
