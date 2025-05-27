@@ -38,7 +38,7 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 </div>
 
 ###
