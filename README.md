@@ -38,9 +38,11 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 </div>
 
 ###
