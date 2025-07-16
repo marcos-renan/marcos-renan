@@ -1,19 +1,19 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando Javascript e Typescript e todo seu ecossistema.
+- 🌱 Atualmente estou estudando Javascript, Typescript e Python.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcos-renan-oliveira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/marcos_renan4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
   </a>
   <a href="devmarcos7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="50" alt="gmail logo"  />
   </a>
 </div>
 
@@ -32,17 +32,24 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="18" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
   <img width="18" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
 </div>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
