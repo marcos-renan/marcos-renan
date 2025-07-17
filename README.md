@@ -32,6 +32,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
