@@ -34,7 +34,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="15" />
@@ -42,13 +42,10 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
 </div>
 
 ###
-
 
 
 <div align="center">
