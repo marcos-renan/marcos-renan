@@ -79,8 +79,6 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="60" alt="pandas logo"  />
   <img width="16" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="60" alt="numpy logo"  />
-  <img width="16" />
-  <img src="https://github.com/user-attachments/assets/f36cf96b-9b79-4a2c-a946-f2bdadb97c0a" height="28" alt="power bi logo" />
 </div>
 
 ###
