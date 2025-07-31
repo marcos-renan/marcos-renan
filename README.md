@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando Javascript, Typescript e Python.
+- 🌱 Atualmente estou estudando Análise de Dados com Python.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -25,31 +25,26 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="14" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
