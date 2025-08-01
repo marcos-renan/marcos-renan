@@ -1,5 +1,5 @@
 # 👋 Olá, meu nome é Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web.
+- 👀 Estou interessado em Desenvolvimento Web e Análise de Dados.
 - 🌱 Atualmente estou estudando Análise de Dados com Python.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
@@ -30,13 +30,13 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="50" alt="anaconda logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="16" />
