@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando Back-End com Java.
+- 👀 Estou interessado em Desenvolvimento Web e Análise de Dados.
+- 🌱 Atualmente estou estudando Back-End com Java e Análise de Dados com Python.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -36,9 +36,13 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="16" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="50" alt="anaconda logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
 </div>
 
 ###
