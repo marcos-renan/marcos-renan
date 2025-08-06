@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web e Análise de Dados.
-- 🌱 Atualmente estou estudando Análise de Dados com Python.
+- 👀 Estou interessado em Desenvolvimento Web.
+- 🌱 Atualmente estou estudando Back-End com Java.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 # 🙋 Redes Sociais
@@ -24,23 +24,21 @@
 # 💻 Tecnologias
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
 </div>
 
 ###
