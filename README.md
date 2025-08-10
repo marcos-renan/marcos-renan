@@ -1,5 +1,5 @@
 # 👋 Olá, meu nome é Marcos Renan!
-- 👀 Estou interessado em Desenvolvimento Web e Análise de Dados.
+- 👀 Estou interessado em Desenvolvimento de Software e Análise de Dados.
 - 🌱 Atualmente estou estudando Análise de Dados.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
@@ -38,10 +38,6 @@
   <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="14" />
