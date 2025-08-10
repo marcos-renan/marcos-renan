@@ -22,27 +22,36 @@
 
 
 # 💻 Tecnologias
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="45" alt="anaconda logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="14" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
-  <img width="14" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="45" alt="anaconda logo"  />
 </div>
 
 ###
