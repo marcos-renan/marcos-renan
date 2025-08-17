@@ -1,24 +1,7 @@
 # 👋 Olá, meu nome é Marcos Renan!
 - 👀 Estou interessado em Desenvolvimento de Software.
-- 🌱 Atualmente estou estudando desenvolvimento web.
+- 🌱 Atualmente estou estudando PHP e Laravel.
 - 🧑‍🎓 Cursando Engenharia de Software.
-
-# 🙋 Redes Sociais
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/marcos-renan-oliveira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/marcos_renan4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
-  </a>
-  <a href="devmarcos7@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="50" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 
 
 # 💻 Tecnologias
@@ -33,9 +16,11 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="14" />
