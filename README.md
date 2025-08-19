@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
 - 👀 Estou interessado em Desenvolvimento de Software.
-- 🌱 Atualmente estou estudando desenvolvimento web.
+- 🌱 Atualmente estou estudando desenvolvimento web com PHP e Laravel.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 
@@ -14,17 +14,17 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 
 ###
