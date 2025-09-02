@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
-- 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando Desenvolvimento Front-End.
+- 👀 Estou interessado em Desenvolvimento de Software.
+- 🌱 Atualmente estou estudando Desenvolvimento Web.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 
@@ -16,11 +16,15 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
 </div>
 
 ###
