@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
-- 👀 Estou interessado em Desenvolvimento de Software.
-- 🌱 Atualmente estou estudando Desenvolvimento Web.
+- 👀 Estou interessado em Desenvolvimento Web.
+- 🌱 Atualmente estou estudando PHP e Laravel.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 
@@ -17,6 +17,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="14" />
