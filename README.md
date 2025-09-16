@@ -18,6 +18,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=adonis" height="50" alt="adonisjs logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
