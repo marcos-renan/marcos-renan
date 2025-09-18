@@ -12,11 +12,7 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=adonis" height="50" alt="adonisjs logo"  />
   <img width="14" />
@@ -25,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
 </div>
