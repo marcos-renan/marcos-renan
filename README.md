@@ -12,9 +12,9 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=adonis" height="50" alt="adonisjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="14" />
