@@ -1,20 +1,22 @@
 # 👋 Olá, me chamo Marcos!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando Desenvolvimento Back-End com PHP e Laravel.
+- 🌱 Atualmente estou estudando Desenvolvimento Full-Stack.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 
 # 💻 Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="14" />
