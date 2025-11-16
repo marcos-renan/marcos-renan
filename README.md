@@ -7,36 +7,31 @@
 # 💻 Tecnologias
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="7" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
 </div>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcos-renan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
