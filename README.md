@@ -22,10 +22,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
