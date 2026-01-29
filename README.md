@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou estudando Desenvolvimento Full-Stack e DevOps.
+- 🌱 Atualmente estou estudando Desenvolvimento Full-Stack e Cloud.
 - 🧑‍🎓 Cursando Engenharia de Software.
 
 
