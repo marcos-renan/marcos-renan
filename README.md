@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou me aprofundando em Desenvolvimento Back-End.
+- 🌱 Atualmente estou me aprofundando em Desenvolvimento Full-Stack.
 - 🧑‍🎓 Bacharel em Engenharia de Software.
 
 
