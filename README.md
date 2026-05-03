@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
 - 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou me aprofundando em Desenvolvimento Full-Stack.
+- 🌱 Atualmente estou me aprofundando em desenvolvimento Back-End.
 - 🧑‍🎓 Bacharel em Engenharia de Software.
 
 
@@ -21,12 +21,6 @@
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="10" />
