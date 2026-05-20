@@ -31,8 +31,6 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"  />
 </div>
 
 ###
