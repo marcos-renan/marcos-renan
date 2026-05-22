@@ -32,6 +32,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="45" alt="rabbitmq logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=kafka" height="45" alt="apachekafka logo"  />
@@ -41,7 +43,9 @@
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
 </div>
 
+
 ###
+
 
 
 <div align="center">
