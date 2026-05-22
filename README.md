@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
-- 👀 Estou interessado em Desenvolvimento Full-Stack.
-- 🌱 Atualmente estou me aprofundando em API's e Microsserviços.
+- 👀 Estou interessado em desenvolvimento Full-Stack.
+- 🌱 Atualmente estou me aprofundando em API's e Microservices.
 - 🧑‍🎓 Bacharel em Engenharia de Software.
 
 
