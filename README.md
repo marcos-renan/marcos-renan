@@ -30,8 +30,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="45" alt="rabbitmq logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
