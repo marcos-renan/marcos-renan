@@ -6,7 +6,7 @@
 
 # 💻 Tecnologias
 
-<div align="center">
+ <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -25,15 +25,17 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="45" alt="rabbitmq logo"  />
   <img width="10" />
