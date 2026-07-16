@@ -31,8 +31,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
 </div>
 
