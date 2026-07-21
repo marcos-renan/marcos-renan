@@ -27,13 +27,14 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="45" alt="apachekafka logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
 </div>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcos-renan&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
