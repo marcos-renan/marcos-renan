@@ -19,6 +19,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
