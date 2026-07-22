@@ -15,6 +15,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
@@ -22,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="10" />
@@ -32,6 +38,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"  />
 </div>
 
 ###
