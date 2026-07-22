@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Marcos!
 - 👀 Estou interessado em desenvolvimento Full-Stack.
-- 🌱 Atualmente estou me aprofundando em Back-End.
+- 🌱 Atualmente estou me aprofundando em API's e Microsserviços.
 - 🧑‍🎓 Bacharel em Engenharia de Software.
 
 
@@ -27,22 +27,18 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="45" alt="apachekafka logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"  />
 </div>
 
 ###
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcos-renan&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
