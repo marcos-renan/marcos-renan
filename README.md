@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
 </div>
 
 ###
