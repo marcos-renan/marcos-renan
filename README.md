@@ -15,6 +15,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
