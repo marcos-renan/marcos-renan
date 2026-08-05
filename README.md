@@ -35,13 +35,6 @@
 ###
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcos-renan&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-
 <!---
 devmarcosjs/devmarcosjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
