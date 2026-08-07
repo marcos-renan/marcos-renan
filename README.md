@@ -11,10 +11,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
