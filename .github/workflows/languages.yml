@@ -32,15 +32,6 @@ jobs:
           path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate activity graph
-        uses: ashutosh00710/github-readme-activity-graph@v2
-        with:
-          username: marcos-renan
-          theme: radical
-          radius: 16
-          area: true
-          output: profile/activity-graph.svg
-
       - name: Commit generated SVGs
         run: |
           git config user.name "github-actions[bot]"
