@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="./profile/languages.svg" height="190" alt="languages graph" />
+  <img src="./profile/languages.svg" height="500" alt="languages graph" />
 </div>
 
 
