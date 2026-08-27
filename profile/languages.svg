@@ -1,8 +1,8 @@
 
       <svg
-        width="320"
+        width="400"
         height="165"
-        viewBox="0 0 320 165"
+        viewBox="0 0 400 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -122,7 +122,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="319"
+          width="399"
           fill="#141321"
           stroke-opacity="1.0"
         />
@@ -152,7 +152,7 @@
       
   
       <mask id="rect-mask">
-        <rect x="0" y="0" width="270" height="8" fill="white" rx="5"/>
+        <rect x="0" y="0" width="350" height="8" fill="white" rx="5"/>
       </mask>
       
         <rect
@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="217.31"
+          width="281.70"
           height="8"
           fill="#3178c6"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="217.31"
+          x="281.70"
           y="0"
-          width="44.18"
+          width="57.27"
           height="8"
           fill="#4F5D95"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="261.49"
+          x="338.97"
           y="0"
-          width="16.34"
+          width="18.22"
           height="8"
           fill="#f1e05a"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="267.83"
+          x="347.18"
           y="0"
-          width="11.26"
+          width="11.64"
           height="8"
           fill="#663399"
         />
@@ -198,9 +198,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="269.09"
+          x="348.82"
           y="0"
-          width="10.47"
+          width="10.61"
           height="8"
           fill=""
         />
@@ -208,9 +208,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="269.56"
+          x="349.43"
           y="0"
-          width="10.44"
+          width="10.57"
           height="8"
           fill="#b07219"
         />
