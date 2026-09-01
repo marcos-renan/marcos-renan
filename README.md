@@ -19,7 +19,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
   <img width="8" />
-  <img src="https://github.com/user-attachments/assets/9398d43e-bb8a-495b-b35f-9a892de781bc" height="45" alt="livewire logo"  />
+  <img src="https://github.com/user-attachments/assets/90b4ac31-5a59-4d0e-aa21-66725353396a" height="45" alt="livewire logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo"  />
   <img width="10" />
