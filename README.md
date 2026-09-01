@@ -13,14 +13,14 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="10" />
-  <img src="https://github.com/user-attachments/assets/cbdb4962-2a17-4c3b-8539-d191c84073b1" height="45" alt="inertiajs logo"  />
-  <img width="10" />
+  <img src="https://github.com/user-attachments/assets/cbdb4962-2a17-4c3b-8539-d191c84073b1" height="47" alt="inertiajs logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
   <img width="8" />
-  <img src="https://github.com/user-attachments/assets/90b4ac31-5a59-4d0e-aa21-66725353396a" height="45" alt="livewire logo"  />
-  <img width="10" />
+  <img src="https://github.com/user-attachments/assets/90b4ac31-5a59-4d0e-aa21-66725353396a" height="47" alt="livewire logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
