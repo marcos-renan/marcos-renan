@@ -31,10 +31,6 @@
 
 ###
 
-<div align="center">
-  <img src="./profile/languages.svg" height="500" alt="languages graph" />
-</div>
-
 
 <!---
 devmarcosjs/devmarcosjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
