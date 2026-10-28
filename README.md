@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
